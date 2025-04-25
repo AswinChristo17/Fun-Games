@@ -18,12 +18,6 @@
 
 ---
 
-## 📸 Screenshots (Add Later)
-
-> 📌 *(Insert images or GIFs of gameplay here)*
-
----
-
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites
